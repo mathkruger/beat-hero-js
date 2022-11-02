@@ -1,0 +1,13 @@
+#start-button {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    width: 800px;
+}
+
+#game-canvas {
+    background-color: black;
+    border: 1px solid black;
+    display: block;
+    margin: 0 auto;
+}
