@@ -8,10 +8,6 @@ const MusicPlayer = {
         this.player.addEventListener("loadedmetadata", initCallBack);
     },
 
-    isPaused() {
-        return this.player.paused;
-    },
-
     play() {
         this.player.play();
     },
